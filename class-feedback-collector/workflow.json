@@ -1,0 +1,28 @@
+{
+  "name": "Class Feedback Collector",
+  "description": "Collects student feedback and summarizes responses using Gemini AI.",
+  "tools": [
+    "Google Forms",
+    "Google Sheets",
+    "Google Apps Script",
+    "Gemini AI"
+  ],
+  "steps": [
+    {
+      "step": 1,
+      "action": "Collect student feedback using Google Forms"
+    },
+    {
+      "step": 2,
+      "action": "Store responses in Google Sheets"
+    },
+    {
+      "step": 3,
+      "action": "Process feedback using Google Apps Script"
+    },
+    {
+      "step": 4,
+      "action": "Use Gemini AI to summarize feedback"
+    }
+  ]
+}
